@@ -64,5 +64,129 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mailkite-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mailkite.dev/
+MailKite provides an email API platform for developers and teams, offering shared inboxes, agent inboxes, and deliverability tools. It supports integration with various frameworks and languages, includes a self‑hosted open‑source mail server, and offers pricing plans for startups to enterprises. The service emphasizes easy setup, robust deliverability, and a playground for testing email flows.
+
+**Areas:** Company · Email · API · SaaS · Communication
+
+## mailkite-dev on APIs.io
+
+Everything profiled for mailkite-dev is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mailkite-dev/](https://apis.io/providers/mailkite-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [mailkite-dev API](https://apis.io/apis/mailkite-dev/mailkite-dev-api/) — mailkite-dev API as documented publicly: 38 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiAppPasswordsResponse](https://apis.io/schemas/mailkite-dev/mailkite-dev-get-api-app-passwords-response/)
+- [GetApiBillingUsageResponse](https://apis.io/schemas/mailkite-dev/mailkite-dev-get-api-billing-usage-response/)
+- [GetApiKeysScopedResponse](https://apis.io/schemas/mailkite-dev/mailkite-dev-get-api-keys-scoped-response/)
+- [GetApiListsIdContactsResponse](https://apis.io/schemas/mailkite-dev/mailkite-dev-get-api-lists-id-contacts-response/)
+- [GetApiRoutesResponse](https://apis.io/schemas/mailkite-dev/mailkite-dev-get-api-routes-response/)
+- [PostV1EventsRequest](https://apis.io/schemas/mailkite-dev/mailkite-dev-post-v1-events-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Mailkite Dev Context](https://apis.io/jsonld/mailkite-dev/mailkite-dev-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [mailkite-dev API Rules](https://apis.io/rules/mailkite-dev/mailkite-dev-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mailkite Dev Authentication](https://apis.io/security/mailkite-dev/mailkite-dev-authentication/)
+- [Mailkite Dev Domain Security](https://apis.io/security/mailkite-dev/mailkite-dev-domain-security/)
+- [Mailkite Dev Trust Center](https://apis.io/security/mailkite-dev/mailkite-dev-trust-center/)
+- [Mailkite Dev Vulnerability Disclosure](https://apis.io/security/mailkite-dev/mailkite-dev-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Mailkite Dev Plans Pricing](https://apis.io/plans/mailkite-dev/mailkite-dev-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mailkite.dev/)
+- [Documentation](https://mailkite.dev/docs/)
+- [Getting started](https://mailkite.dev/docs/quickstart)
+- [API reference](https://mailkite.dev/api/)
+- [Pricing](https://mailkite.dev/pricing)
+- [Changelog](https://mailkite.dev/changelog)
+- [Blog](https://mailkite.dev/blog)
+- [Security](https://mailkite.dev/security)
+- [Compliance](https://mailkite.dev/security/)
+- [Terms of service](https://mailkite.dev/terms/)
+- [Privacy policy](https://mailkite.dev/privacy/)
+- [GitHub](https://github.com/mailkite)
+- [Status](https://mailkite.dev/status)
+
+## API Evangelist rating
+
+**Kin Score 66.0** — strong · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 44.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 55.3 |
+| Developer ergonomics | 66.7 |
+| Access clarity | 75.8 |
+
+**Agent readiness 42.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | derived (partial credit) |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mailkite-dev/](https://apis.io/providers/mailkite-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for mailkite-dev: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mailkite-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
